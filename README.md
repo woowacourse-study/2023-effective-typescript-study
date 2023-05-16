@@ -8,7 +8,7 @@
 
 
 ## 🙍‍♀️🙍‍♂️스터디 멤버
-> **제로, 루루, 쿠마, 코난, 노아, 타미**
+> **우아한테크코스 5기 프론트엔드 크루: 제로, 루루, 쿠마, 코난, 노아, 타미**
 <table>
   <tr>
      <td align="center"><a href="https://github.com/inyeong-kang"><img src="https://avatars.githubusercontent.com/u/81199414?v=4?v=4?s=100" width="100px;" alt=""/><br /><sub><b>제로</b></sub></a><br /></td>
